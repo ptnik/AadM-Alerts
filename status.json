@@ -1,20 +1,20 @@
 [
 	{
-    debug: true, 
+    		"debug": true, 
 		"title": "Teste de notificação urgente",
 		"body": "Em caso de necessidade. Para mais informação...",
 		"link": "https://www.facebook.com/abertoatedemadrugada/",
 		"image": "https://1.bp.blogspot.com/_GFo2NhVEkEk/TMwthzkMZyI/AAAAAAAALQ4/_uU0KZoMdHI/s1600/TinyIcon32x32.png",
-    "start" :"2019-10-01 15:00:00",
+    		"start" :"2019-10-01 15:00:00",
 		"end" : "2020-10-01 18:04:00"
 	},
 	{
-    debug: true, 
+    		"debug": true, 
 		"title": "Teste 222",
 		"body": "Em caso de necessidade 222. Para mais informação  222...",
 		"link": "https://www.facebook.com/abertoatedemadrugada/",
 		"image": "https://1.bp.blogspot.com/_GFo2NhVEkEk/TMwthzkMZyI/AAAAAAAALQ4/_uU0KZoMdHI/s1600/TinyIcon32x32.png",
-    "start" :"2019-10-01 15:00:00",
+    		"start" :"2019-10-01 15:00:00",
 		"end" : "2020-10-01 18:04:00"
 	}
 
